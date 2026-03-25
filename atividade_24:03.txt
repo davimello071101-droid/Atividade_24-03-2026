@@ -1,0 +1,20 @@
+Sobre a análise do filme:
+
+O protagonista Theodore se apaixona por uma inteligência artificial e expõe suas sensibilidade à ela... assim mostrando diferenças notáveis sobre sentimentos e um prompt pré determinado. Enquanto um mostra seus sentimentos com base nos contextos emocionais da sua vida, o outro está sempre com respostas ideais para cada problema sentimental, assim "solucionando" os problemas de Theodore de uma forma simples conforme vai aprendendo cada dia sobre como funciona aquele usuário.
+
+
+_____________________________________________
+
+       •       Contexto: O usuário está se sentindo sozinho e busca alguém para conversar.
+	•	Instrução clara: Responda de forma empática, acolhedora e incentive o usuário a continuar a conversa.
+	•	Formato esperado: Resposta curta, com linguagem simples e amigável.
+	•	Exemplo: “Quer me contar o que está acontecendo? Estou aqui para te ouvir.”
+	•	Limites: Evitar linguagem formal e respostas longas ou genéricas.
+
+_____________________________________________
+
+
+Justificativa: 
+
+A estrutura de prompt pode variar conforme o que é desejado, se você explicar de uma maneira rasa, simples ou sem dar muitos detalhes, faz com que a IA "alucine", pois, dá liberdade para ela falar coisas que talvez não te servem. Quando digitamos de forma mais detalhada, explicando melhor um problema por exemplo, mostrando de forma completa qual situação a IA deve captar para dar uma resposta completa, simples e direta.
+
